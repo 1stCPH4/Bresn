@@ -1,0 +1,73 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Breast Cancer Presentation</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            background-color: #f4f4f4;
+            margin: 0;
+            padding: 20px;
+        }
+        .slide {
+            background: white;
+            border-radius: 8px;
+            box-shadow: 0 2px 10px rgba(0, 0, 0, 0.1);
+            margin-bottom: 20px;
+            padding: 20px;
+        }
+        h1, h2 {
+            color: #333;
+        }
+        ul {
+            line-height: 1.6;
+        }
+    </style>
+</head>
+<body>
+
+    <div class="slide">
+        <h1>Treatment Options for Breast Cancer</h1>
+        <ul>
+            <li><strong>Surgery:</strong>
+                <ul>
+                    <li>Lumpectomy</li>
+                    <li>Mastectomy</li>
+                    <li>Sentinel node biopsy</li>
+                </ul>
+            </li>
+            <li><strong>Radiation Therapy:</strong>
+                <ul>
+                    <li>Post-surgery to eliminate residual cancer cells</li>
+                    <li>External beam vs. brachytherapy</li>
+                </ul>
+            </li>
+            <li><strong>Systemic Therapies:</strong>
+                <ul>
+                    <li>Chemotherapy</li>
+                    <li>Hormonal therapy (e.g., Tamoxifen, Aromatase inhibitors)</li>
+                    <li>Targeted therapies (e.g., HER2 inhibitors)</li>
+                </ul>
+            </li>
+            <li><strong>Immunotherapy:</strong>
+                <ul>
+                    <li>For specific subtypes of breast cancer</li>
+                </ul>
+            </li>
+        </ul>
+    </div>
+
+    <div class="slide">
+        <h2>Additional Considerations</h2>
+        <ul>
+            <li>Patient's age and overall health</li>
+            <li>Stage and subtype of breast cancer</li>
+            <li>Patient preferences and values</li>
+            <li>Multidisciplinary approach for optimal care</li>
+        </ul>
+    </div>
+
+</body>
+</html>
